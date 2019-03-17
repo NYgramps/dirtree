@@ -3,4 +3,5 @@ and the other, **_dirtree_dos.pl_**, for _windows_.  When viewed in a browser, t
 _html_ file created by running the appropriate *perl* script for the underlying operating
 system displays a
 **collapsible tree** of subdirectories, with associated sizes, for manipulation by the user
-to easily visualize disc usage.  The basic unit displayed is a subdirectory, not a file!  Generated _html_ files are supported by plain vanilla *javascript* and *css*.
+to easily visualize disc usage.  The basic unit displayed is a subdirectory, not a file!  Generated _html_ files are supported by plain vanilla *javascript* and *css*, and are not
+dependent on the internet, that is, they work offline.
